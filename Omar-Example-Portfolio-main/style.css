@@ -4,6 +4,7 @@ body {
 
 header {
   background-color: #333745;
+  height: auto;
 }
 
 header h1 {
@@ -26,6 +27,7 @@ header h2 {
 
 main {
   background-color: #FEFCEC;
+  height: auto;
 }
 
 main {
@@ -63,6 +65,7 @@ footer {
   background-color: #333745;
   color: white;
   text-align: center;
+  height: auto;
   margin: 20px 0 0 0;
   padding: 20px 0;
 }
