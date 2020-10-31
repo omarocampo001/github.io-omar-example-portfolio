@@ -32,6 +32,7 @@ main {
   text-align: center;
 }
 
+/* This line of code centers the image and determines its width. */
 .center {
   display: block;
   margin-left: auto;
@@ -49,6 +50,8 @@ main p {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
 }
+
+/* This line of code below styles the bullet points. Without it, it goes to default settings. */
 
 main li {
   color: black;
