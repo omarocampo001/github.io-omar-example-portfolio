@@ -66,6 +66,10 @@ main li:link {
   color: #FF00FF;
 }
 
+a:hover {
+  color: red;
+}
+
 footer {
   background-color: #333745;
   color: white;
